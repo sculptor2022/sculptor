@@ -1,0 +1,5 @@
+numpy
+torch
+torchvision
+einops
+trimesh==3.6.18
