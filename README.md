@@ -27,7 +27,7 @@ $ pip install -r requirements.txt
 ```
 
 ## Model
-SCULPTOR model is saved in `model/paradict.npy`. We currently provide 50 shape components and 10 trait components publicly available. The forward layer is provided.  
+SCULPTOR model is saved in `model/paradict.npy`, which can be downloaded [here](https://github.com/sculptor2022/sculptor/blob/main/model/paradict.npy). We currently provide 50 shape components and 10 trait components publicly available. The forward layer is provided.  
 
 ## LUCY dataset
 
