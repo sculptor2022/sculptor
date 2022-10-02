@@ -48,8 +48,16 @@ Send the handwritten agreement form to sculptor2022@outlook.com. We will careful
 LUCY is available for non-commercial research and education purposes only. LUCY must not be reproduced, exchanged, sold, or used for profit. All publishable work using any of the LUCY or SCULPTOR,  following paper must be cited.
 
 ```
-@article{
-
+@misc{
+  https://doi.org/10.48550/arxiv.2209.06423,
+  doi = {10.48550/ARXIV.2209.06423},
+  url = {https://arxiv.org/abs/2209.06423},
+  author = {Qiu, Zesong and Li, Yuwei and He, Dongming and Zhang, Qixuan and Zhang, Longwen and Zhang, Yinghao and Wang, Jingya and Xu, Lan and Wang, Xudong and Zhang, Yuyao and Yu, Jingyi},
+  keywords = {Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  title = {SCULPTOR: Skeleton-Consistent Face Creation Using a Learned Parametric Generator},
+  publisher = {arXiv},
+  year = {2022},
+  copyright = {arXiv.org perpetual, non-exclusive license}
 }
 ```
 
